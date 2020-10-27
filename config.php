@@ -34,7 +34,7 @@ return [
         'port' => '3306',
         'name' => 'restful_dev',
         'user' => 'root',
-        'pswd' => 'root',
+        'pswd' => '',
         'pfix' => ''
     ],
     

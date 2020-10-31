@@ -3,7 +3,7 @@
     "description": "F3 REST API starter kit",
     "type": "project",
     "require": {
-        "bcosca/fatfree": "^3.6",
+        "bcosca/fatfree": "^3.7",
         "ikkez/f3-cortex": "^1.5"
     },
     "license": "ISC",
